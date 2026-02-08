@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "運命の人",
+  "base_artist": "『ユイカ』",
+  "createdAt": "2026-02-08T11:59:46.077668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "運命の人 〜 Anytime You Need Me",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/01_運命の人_〜_Anytime_You_Need_Me_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "運命の人",
+      "artist": "SPITZ",
+      "has_synced": false,
+      "path": "select/02_運命の人_SPITZ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "運命の人",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/03_運命の人_スピッツ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "運命の人",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/04_運命の人_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "運命の人",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/05_運命の人_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "運命の人",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/06_運命の人_『ユイカ』.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "運命の人",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/07_運命の人_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "運命の人 (Album Version)",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/08_運命の人_(Album_Version)_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "運命の人",
+      "artist": "藤田麻衣子",
+      "has_synced": true,
+      "path": "select/09_運命の人_藤田麻衣子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "運命の人 (Album Version)",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/10_運命の人_(Album_Version)_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "運命の人",
+      "artist": "Maiko Fujita",
+      "has_synced": true,
+      "path": "select/11_運命の人_Maiko_Fujita.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "運命の人",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/12_運命の人_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "運命の人 ～ Anytime You Need Me",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/13_運命の人_~_Anytime_You_Need_Me_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "運命の人 ～ Anytime You Need Me",
+      "artist": "Suzuki, Masayuki",
+      "has_synced": true,
+      "path": "select/14_運命の人_~_Anytime_You_Need_Me_Suzuki,_Masayuki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "運命の人",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/15_運命の人_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "運命の人",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/16_運命の人_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "運命の人 - Unmeino Hito",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/17_運命の人_-_Unmeino_Hito_Spitz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "運命の人",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_運命の人_『ユイカ』.txt"
+    }
+  ]
+}
